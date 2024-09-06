@@ -23,4 +23,6 @@ Deliverable: An architecture diagram illustrating the system's structure.
  - REACT 16
 # Instalacion
 
+realizar le ejecucion del comando
+
 npm i 
